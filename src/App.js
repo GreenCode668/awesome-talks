@@ -7,7 +7,7 @@ import Tags from './Pages/Tags'
 import Tag from './Pages/Tag'
 import Favorites from './Pages/Favorites'
 
-import './Utils/global-styles'
+import './Utils/global-styles'   
 import './Utils/icons'
 
 export default () => (
