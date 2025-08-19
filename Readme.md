@@ -6,7 +6,7 @@
 
 <center>  
     <img src="./gh.png" alt="wesbite" />
-    <a href="https://awesometalks.party">https://awesometalks.party</a>
+    <a href="https://awesometalks.party">https://awesometalks.party</a> 
 </center>
 
 ## What ?
